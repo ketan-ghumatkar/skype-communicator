@@ -1,0 +1,29 @@
+{
+  "name": "skype-communicator",
+  "version": "1.0.0",
+  "description": "This will help to send messages to group or person through skype bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ketan-ghumatkar/skype-communicator.git"
+  },
+  "keywords": [
+    "skype",
+    "bot",
+    "skype-communicator",
+    "resustain"
+  ],
+  "author": "Ketan Ghumatkar",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ketan-ghumatkar/skype-communicator/issues"
+  },
+  "homepage": "https://github.com/ketan-ghumatkar/skype-communicator#readme"
+}
